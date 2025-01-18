@@ -10,7 +10,7 @@ Author: Nemanja Falb
 License: GPLv2 or later
 Copyright 2023-2024 Automattic, Inc.
 */
-
+// Nova tura
 // Add link to settings in the menu
 function pixelpioneerpro_custom_codes_menu() {
     add_options_page( 'Custom Codes Settings', 'Custom Codes', 'manage_options', 'pixelpioneerpro-custom-codes', 'pixelpioneerpro_custom_codes_page' );
